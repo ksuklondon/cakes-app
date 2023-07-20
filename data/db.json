@@ -1,0 +1,385 @@
+{
+  "cakes": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2003&q=80",
+      "cake_name": "Black Forest Cake",
+      "category": "layer cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "butter",
+        "dark chocolate",
+        "plain flour",
+        "golden caster sugar",
+        "cocoa",
+        "medium eggs",
+        "buttermilk",
+        "pitted cherries",
+        "cherry jam",
+        "double cream",
+        "icing sugar"
+      ],
+      "instructions": "Heat oven to 180C/160C fan/gas 4. Grease and line the base of 3 x 20cm cake tins. Boil the kettle. Put the butter and 75g chocolate broken into chunks in a small pan and gently heat, stirring, until completely melted. Mix together the flour, sugar, cocoa and bicarbonate of soda with a pinch of salt in a mixing bowl. Whisk the eggs and buttermilk or yogurt together. Scrape the melted chocolate mixture and egg mixture into the dry ingredients, add 100ml boiling water and whizz briefly with an electric whisk until the cake batter is lump free. When the cakes are cool whisk the remaining cream and the icing sugar together until softly whipped. Spread over two of the cakes, then spoon over the jammy cherries. Stack the cakes together. Spread the chocolate cream over the third cake and sit on top of the other cakes. Pile the fresh cherries in and around the cake and serve"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.pixabay.com/photo/2017/01/23/08/45/cake-2001781_960_720.jpg",
+      "cake_name": "Hummingbird Cake",
+      "category": "layer cake",
+      "type": "vegan",
+      "ingredients": [
+        "all purpose flour",
+        "sugar",
+        "salt",
+        "flaxseed",
+        "cinnamon",
+        "vegetable oil",
+        "vanilla extract",
+        "pineapple",
+        "bananas",
+        "pecans",
+        "vegan cream cheese",
+        "vegan butter"
+      ],
+      "instructions": "Preheat oven to 350°F. Whisk together flour, sugar, salt, baking soda, and cinnamon in a large bowl; and oil, stirring just until dry ingredients are moistened. Stir in vanilla, pineapple, bananas, and toasted pecans. Divide batter evenly among 3 well-greased (with shortening) and floured 9-inch round cake pans. Bake in preheated oven until a wooden pick inserted in center comes out clean, 25 to 30 minutes. Cool in pans on wire racks 10 minutes. Remove from pans to wire racks, and cool completely, about 1 hour. Beat cream cheese and butter with an electric mixer on medium-low speed until smooth. Gradually add powdered sugar, beating at low speed until blended after each addition. Stir in vanilla. Increase speed to medium-high, and beat until fluffy, 1 to 2 minutes. Place first cake layer on a serving platter; spread top with 1 cup of the frosting. Top with second layer, and spread with 1 cup frosting. Top with third layer, and spread remaining frosting over top and sides of cake. Arrange pecan halves on top of cake in a circular pattern."
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1578775887804-699de7086ff9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+      "cake_name": "New York Baked Cheesecake",
+      "category": "sheet cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "graham cracker crumbs",
+        "butter",
+        "sugar",
+        "salt",
+        "eggs",
+        "cream cheese",
+        "flour",
+        "vanilla extract"
+      ],
+      "instructions": "Wrap the springform pan with one large piece of heavy-duty aluminum foil, covering the underside of the pan and extending all the way to the top. Repeat with another sheet of foil for insurance. Spray the inside of the pan with nonstick cooking spray. In a medium bowl, combine the graham cracker crumbs, melted butter, sugar, and salt. Set the unbaked cheesecake in a large roasting pan. Pour boiling water into the roasting pan until it comes about one inch up the side of the cake pan. The water bath (also called a bain marie) regulates the temperature and keeps the cheesecake baking at an even, low heat. The steam/humidity created by the water bath also protects the cheesecake from drying out and cracking. Bake until the cake is just set, 1 hour and 30 minutes to 1 hour and 45 minutes. The cake should not look liquidy at all but will wobble just a bit when the pan is nudged; it will continue to cook as it cools. Remove the sides of the springform pan. You can serve the cheesecake right from the base of the springform pan. Or, if you’d like to transfer it to a serving platter, run a long, thin spatula between the crust and the pan bottom, and then use two large spatulas to transfer the cheesecake to a serving dish. Slice with a sharp knife, wiping the knife clean between slices. Serve with berry sauce, if you like."
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.pixabay.com/photo/2019/07/30/01/58/cheesecake-4371777_960_720.jpg",
+      "cake_name": "Strawberry White Chocolate Cheesecake",
+      "category": "sheet cake",
+      "type": "vegetarian",
+      "ingredients": [
+        "digestive biscuits",
+        "white chocolate",
+        "cream cheese",
+        "butter",
+        "strawberries",
+        "vanilla extract"
+      ],
+      "instructions": "Lightly butter the base and sides of a deep 20cm springform cake tin and line the bottom with baking paper. Put the digestive biscuits into a food processor and whizz to crumbs, then add the melted butter and pulse again briefly. Tip into the tin, spread out and press down firmly to make an even base. Put into the fridge to set. To make the topping, put the 100g of quartered strawberries into a small pan with the caster sugar and a splash of water, and cook over a low-medium heat for 8-10 minutes or until the sugar has dissolved and the strawberries have softened. Gently mash the strawberries in the pan to break them down, then pass through a sieve into another bowl and pour the juice back into the pan. Add the cornflour and stir constantly on a low heat until the sauce is thickened and smooth. Cool."
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1602351447937-745cb720612f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+      "cake_name": "Hazelnut Mousse Cake",
+      "category": "layer cake",
+      "type": "gluten-free",
+      "ingredients": [
+        "hazelnuts",
+        "sugar",
+        "gluten-free flour",
+        "butter",
+        "cocoa powder",
+        "Nutella chocolate spread",
+        "mascarpone cheese",
+        "dark chocolate"
+      ],
+      "instructions": "Preheat oven to 350 degrees. Invert the bottom of an 8 springform pan (to make it easier to slide the shortbread base off the bottom) then lock on the sides of the pan. Line the bottom with a round of parchment paper. Place the hazelnuts and granulated sugar in the bowl of a food processor. Pulse until the nuts are finely chopped. Add the flour, butter, cocoa and salt and pulse to form a cohesive dough. Press the dough evenly onto the bottom of the prepared springform pan. Using a fork, prick the base all over and then bake just until it is just dry to the touch, about 18-20 minutes. Cool completely on a wire rack. Remove the sides of the pan and carefully remove the parchment from under the shortbread. Reattach the sides of the pan around the shortbread base. Set aside. While the crust is baking and cooling, prepare the mousse. Place the water in a small, heavy-bottom saucepan then sprinkle with the gelatin. Set aside until the gelatin is softened, about 5 minutes. Heat the softened gelatin over low heat and stir just until melted. Add the chocolate hazelnut spread and espresso powder and whisk until combined. Remove the pan from the heat source and transfer the mixture to a large mixing bowl. Add the mascarpone cheese and vanilla to the hazelnut mixture and whisk until combined."
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.pixabay.com/photo/2014/01/14/16/45/opera-244857_960_720.jpg",
+      "cake_name": "Opera Cake",
+      "category": "layer cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "flour",
+        "eggs",
+        "sugar",
+        "espresso powder",
+        "butter",
+        "chocolate"
+      ],
+      "instructions": "Preheat the oven to 450F. Lightly grease a 17x11 jelly roll pan and line it with parchment; grease the paper (alternatively, use a Silpat and grease the mat). Using a stand mixer fitted with the paddle attachment, beat the almond flour, confectioners’ sugar, all-purpose flour, whole eggs, and egg yolk until combined. Stop to scrape down the sides of the bowl as necessary. In a separate bowl, whip the egg whites and fine sugar with an electric hand mixer until a thick, glossy meringue forms. Gently fold the meringue into the almond mixture. Add the melted butter and gently fold again, being careful not to deflate the batter. Pour into the prepared baking pan; spread evenly using an offset spatula. Bake for 5-7 minutes, or until the cake springs back when pressed in the center. Remove from the oven and let cool slightly. The cake should pull away from the sides of the pan, but if it doesn’t, run a knife between the cake edge and the pan to loosen the sponge. Invert the cake onto a wire rack and carefully peel away the parchment or silicone liner. Conservatively trim away the browned edges of the cake using a small sharp knife. Set aside to cool completely."
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1559620192-032c4bc4674e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1929&q=80",
+      "cake_name": "Gluten-free Persian Cake",
+      "category": "sheet cake",
+      "type": "gluten-free",
+      "ingredients": [
+        "oranges",
+        "eggs",
+        "golden caster sugar",
+        "almond meal",
+        "baking powder",
+        "cardamom",
+        "orange blossom water"
+      ],
+      "instructions": "Preheat oven to 160°C. Grease a 20cm round springform pan and line the base with baking paper. Place oranges in a large saucepan; cover with cold water. Bring to the boil and cook for 15 minutes. Drain. Return to pan and cover with fresh cold water. Bring to the boil. Cook for a further 15 minutes. Drain and repeat once more or until very tender. Drain. Coarsely chop and discard any pips. To make syrup, use a zester to remove rind from orange. Then juice the orange. Place the juice, sugar and water in a saucepan over low heat. Cook, stirring, for 5 minutes or until sugar dissolves and syrup thickens slightly. Remove from heat. Add orange blossom water and zest. Set aside to cool."
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.pixabay.com/photo/2018/02/18/21/30/coffee-3163596_960_720.jpg",
+      "cake_name": "Chocolate Layer Cake",
+      "category": "layer cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "eggs",
+        "buttermilk",
+        "butter",
+        "sugar",
+        "chocolate",
+        "heavy cream"
+      ],
+      "instructions": "Begin by preheating the oven to 350 F / 175 C. Line four seven-inch or three 8-inch pans with parchment rounds and spray with non-stick baking spray. Add 1 cup of unsalted butter into the bowl of a stand mixer or a large bowl and beat on a medium speed until smooth and creamy. Add 2 1/2 cups sugar and cream together on a high speed for 1-2 minutes with a whisk attachment or hand mixer. Scrape the sides of the bowl as needed. The mixture should become light in color. Mix in 4 large eggs on a medium speed, two at a time. In a separate bowl combine 1 cup of hot water, 1 cup of buttermilk, and 1 cup of black cocoa. Whisk until the mixture is smooth and no clumps remain. Sift 3 cups of flour, 1 1/2 tsp baking powder, 1 tsp baking soda, and 1 tsp salt into a large bowl. Next, add in 1/3 of the dry ingredients into the butter/egg mixture. Scrape the sides of the bowl with a spatula to ensure the flour gets fully incorporated. Pour in half of the buttermilk/cocoa mixture and gently pulse the mixture to incorporate the liquid. If you don't, you'll end up splattering the cocoa mixture all over your kitchen! Mix in the 2nd portion of the dry ingredients on a low speed. Pour in the remaining buttermilk/cocoa mixture and again gently pulse. Then mix on low until fully combined. Add in the last portion of the dry ingredients and mix on low until fully incorporated. Divide the batter evenly between the prepared pans. I like to use a kitchen scale to make sure each pan has the same amount of batter. Bake for 32-35 minutes or until a toothpick comes out with a few moist crumbs. Allow layers to cool in the pans for about 10 minutes, then run an offset spatula around the edge of the pans to help separate the layers from the pans."
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.pixabay.com/photo/2019/01/28/10/02/ferrero-rocher-cake-3960005_960_720.jpg",
+      "cake_name": "Ferrero Rocher Cake",
+      "category": "layer cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "Nutella",
+        "hazelnuts",
+        "flour",
+        "sugar",
+        "vegetable oil",
+        "salt",
+        "eggs"
+      ],
+      "instructions": "Preheat oven to 350F, grease three 6″ round baking pans and dust with cocoa powder. Line bottoms with parchment. Place all dry ingredients into the bowl of a stand mixer fitted with a paddle attachment. Stir to combine. In a medium bowl whisk all wet ingredients (pour hot water in slowly while whisking as not to cook the eggs). Add wet ingredients to dry and mix on medium for 2-3 mins. Batter will be very thin. Pour evenly into prepared pans. I used a kitchen scale to ensure the batter is evenly distributed. Bake until a cake tester comes out mostly clean, a total of 30-35mins."
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1559630854-e3615c5f4e46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+      "cake_name": "Victoria Sponge Cake",
+      "category": "layer cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "strawberry jam",
+        "butter",
+        "golden caster sugar",
+        "eggs",
+        "all purpose flour",
+        "vanilla extract",
+        "double cream"
+      ],
+      "instructions": "Pre-heat your oven to 160C Fan/180C/350F/Gas Mark 4, and grease and line two 8 inches cake tins (that are at least 2 inches deep). I line the base with greaseproof paper and lightly grease the sides with butter. Make the sponge by mixing the butter/baking spread and caster sugar in a large bowl with an electric mixer, or in a stand mixer, for 3-4 minutes until fluffy. You can also mix by hand, but an electric mixer will give the best results Add the eggs and vanilla extract, and whisk until fully incorporated, again using an electric mixer. Gently whisk in the self raising flour using a hand whisk, or fold in with a silicone spatula, and mix in until you can't see any flour anymore. Divide the mixture between the tins, use scales for accuracy if you like. Bake them for 20-25 minutes or until they are golden and a skewer inserted in the middle comes out clean. Leave them to fully cool either in the tins or remove from the tin and place on cooling racks. If the cakes have domed on top, you can level them off with a cake leveller or a knife, you will definitely need to do this for the bottom cake layer so that the top layer stacks on top of it nicely. To decorate the cake, prepare the double cream by whipping it along with the icing sugar and vanilla extract, with an electric whisk until soft peaks form. You can do this by hand but it will take much longer and require some muscles!. Put one of the sponges on your plate or cake stand and spread the jam onto it. Pipe or spread the whipped cream over the jam (or you can pipe or spread the cream on first and put the jam on top of it). Add the other sponge on top and dust with icing sugar, or decorate how you like. Serve immediately, if using whipped cream store any leftovers in the fridge, if using jam only or jam and buttercream store in an airtight container in a cool place and eat within 2-3 days"
+    },
+    {
+      "id": 10,
+      "image": "https://cdn.pixabay.com/photo/2020/03/10/03/49/red-velvet-cake-4917734_960_720.jpg",
+      "cake_name": "Red Velvet Cake",
+      "category": "layer cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "red food colouring",
+        "butter",
+        "caster sugar",
+        "eggs",
+        "flour",
+        "cream cheese",
+        "cocoa powder",
+        "vanilla extract"
+      ],
+      "instructions": "Pre-heat your oven to 160C Fan/180C/350F/Gas Mark 4, and grease and line two 8 inches cake tins (that are at least 2 inch deep). Mix the butter and sugar together until fluffy, ideally with an electric mixer, or you can mix in a bowl with a wooden or silicone spoon"
+    },
+    {
+      "id": 11,
+      "image": "https://cdn.pixabay.com/photo/2018/03/20/21/46/food-3244824_960_720.jpg",
+      "cake_name": "Mango Charlotte Cake",
+      "category": "layer cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "mango",
+        "cream cheese",
+        "sour cream",
+        "eggs",
+        "sugar",
+        "flour"
+      ],
+      "instructions": "Preheat the oven to 350°F (180°C). Line a springform tin (8 inches/20cm) with baking parchment and set aside. Peel the mangoes, cut along the stone and dice the flesh - puree the listed amounts in the recipe separately and set aside."
+    },
+    {
+      "id": 12,
+      "image": "https://images.unsplash.com/photo-1534353875273-b5887cc1abf5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+      "cake_name": "Pound Cake",
+      "category": "sheet cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "all purpose flour",
+        "icing sugar",
+        "vanilla extract",
+        "eggs",
+        "butter",
+        "milk"
+      ],
+      "instructions": "Pre-heat the oven to 160C Fan/180C/350F/Gas Mark 4 and grease and line a 2lb loaf tin. Mix together the butter or baking spread and caster sugar until light and fluffy, ideally using an electric mixer"
+    },
+    {
+      "id": 13,
+      "image": "https://cdn.pixabay.com/photo/2017/06/01/21/47/food-2364691_960_720.jpg",
+      "cake_name": "Dark Chocolate Coconut Cake",
+      "category": "layer cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "desiccated coconut",
+        "dark chocolate",
+        "flour",
+        "eggs",
+        "sugar",
+        "milk",
+        "cocoa powder"
+      ],
+      "instructions": "Preheat oven to 180°C/160°C fan-forced. Grease a 6.5cm-deep, 20cm (base) round cake pan. Line with baking paper. Using an electric mixer, beat butter, sugar and coconut essence until fluffy. Add eggs, 1 at a time, beating well after each addition."
+    },
+    {
+      "id": 14,
+      "image": "https://images.unsplash.com/photo-1566704298383-2925e1277298?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964&q=80",
+      "cake_name": "Gateau Mille Crepes",
+      "category": "layer cake",
+      "type": "vegetarian",
+      "ingredients": [
+        "milk",
+        "butter",
+        "eggs",
+        "whipped cream",
+        "flour",
+        "sugar"
+      ],
+      "instructions": "Make the crepes by melting the butter and allowing it to brown slightly. Set aside. In the same pot, warm the milk. Remove from heat. In a bowl, whisk flour, cocoa powder, and sugar. Mix in eggs. Gradually mix in butter and warm milk. Chill."
+    },
+    {
+      "id": 15,
+      "image": "https://images.unsplash.com/photo-1511996946289-f0c071823341?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "cake_name": "Apple and Cherry Crumble",
+      "category": "sheet cake",
+      "type": "vegan",
+      "ingredients": [
+        "apples",
+        "sugar",
+        "flour",
+        "soy milk",
+        "cinnamon",
+        "vegan butter"
+      ],
+      "instructions": "Let's make the crumble first! In a medium sized bowl, mix all the ingredients together with a spoon or a fork until it forms chunky crumbles. Cover with clean kitchen cloths or reusable cling film and rest in the fridge. Preheat the oven for 180°C(350°F). Mix the soy milk and apple cider vinegar to make vegan buttermilk. Set aside to curdle. In a large bowl, mix the plain flour, tapioca flour, granulated sugar, brown sugar, ground almond, cinnamon, baking powder, and baking soda with a whisk until well combined. "
+    },
+    {
+      "id": 16,
+      "image": "https://cdn.pixabay.com/photo/2020/12/15/02/16/cake-5832471_960_720.jpg",
+      "cake_name": "Oreo Cake",
+      "category": "layer cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "Oreo cookie crumbs",
+        "all purpose flour",
+        "sugar",
+        "cocoa powder",
+        "eggs",
+        "buttermilk",
+        "vegetable oil"
+      ],
+      "instructions": "Place all dry ingredients into the bowl of a stand mixer fitted with a paddle attachment. Stir to combine. In a medium bowl whisk all wet ingredients (pour coffee in slowly as not to cook the eggs if very hot). Add wet ingredients to dry and mix on medium for 2-3 mins. Batter will be very thin. Pour evenly into prepared pans. I used a kitchen scale to ensure the batter is evenly distributed."
+    },
+    {
+      "id": 17,
+      "image": "https://images.unsplash.com/photo-1589113705076-ff28f41a2b8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+      "cake_name": "Decadent Dark Chocolate Walnut Brownies",
+      "category": "sheet cake",
+      "type": "vegetarian",
+      "ingredients": [
+        "butter",
+        "eggs",
+        "vanilla extract",
+        "dark chocolate",
+        "walnuts",
+        "cocoa powder",
+        "sea salt",
+        "brown sugar"
+      ],
+      "instructions": "Preheat the oven to 350°F. Grease a 9x9 inches baking pan with baking spray and line with parchment paper, leaving an overhang over the sides to allow for easy removal of the brownies. In a large bowl, whisk together melted butter, eggs, vanilla extract, and sea salt until smooth. Add in sugars and mix well. Sift cocoa powder and flour into the bowl and fold with rubber spatula until well combined. Fold in chopped chocolate and walnuts. Add batter to prepared pan and smooth to the edges. Bake for 25-30 minutes or until center is set. Cool in pan for 20 minutes and then transfer to a wire rack to cool completely."
+    },
+    {
+      "id": 18,
+      "image": "https://cdn.pixabay.com/photo/2017/10/16/09/02/cake-2856551_960_720.jpg",
+      "cake_name": "Flourless Chocolate Cake",
+      "category": "sheet cake",
+      "type": "gluten-free",
+      "ingredients": [
+        "eggs",
+        "bittersweet chocolate",
+        "unsalted butter",
+        "berries",
+        "powdered sugar"
+      ],
+      "instructions": "Adjust an oven rack to the lower-middle position and heat the oven to 325°F. Line the bottom of an 8-inch springform pan with parchment paper or waxed paper and grease the sides of the pan. (Be sure to grease the sides really well!) Wrap the outside of the pan with 2 sheets of heavy-duty aluminum foil and set it in a large roasting pan, or any pan that’s larger than the springform. Bring a kettle or pot of water to boil. In a stand mixer using the whisk attachment, beat the eggs at high speed until the volume doubles. This usually takes about 5 minutes. Meanwhile, melt the chocolate and butter together. You can either do this in a double boiler on the stove (by placing the chocolate and butter in a large heatproof bowl, set over a pan of almost-simmering water, and stirring until melted and smooth). Or you can do this in the microwave (by heating the chocolate and butter in a microwave-safe bowl in 30-second intervals, stirring in between, until the chocolate and butter are melted and smooth). Then fold about a third of the beaten eggs into the chocolate mixture using a large rubber spatula until only a few streaks of egg are visible. Fold in half of the remaining egg foam, and then the last half of the foam, until the mixture is totally homogenous."
+    },
+    {
+      "id": 19,
+      "image": "https://images.unsplash.com/photo-1512398050999-49576a8dac80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1886&q=80",
+      "cake_name": "Pear Upside-Down Cake",
+      "category": "sheet cake",
+      "type": "vegetarian",
+      "ingredients": [
+        "ripe pears",
+        "basic caramel",
+        "unsalted butter",
+        "all purpose flour",
+        "ginger",
+        "cinnamon",
+        "milk",
+        "brown sugar"
+      ],
+      "instructions": "Position a rack in the center of the oven and heat the oven to 350°F. Butter the bottom and sides of a 9×2-inch round cake pan (don’t use a springform pan, as the caramel might leak out during baking). Line the bottom of the pan with a round of parchment and butter the top of the paper. Peel, core, and cut the pears lengthwise into 1/4-inch-thick slices. Arrange the pear slices on the bottom of the pan in a circle around the edge, overlapping them slightly, with the pointed ends towards the center. If necessary, cut a little off the pointed ends to make the slices fit better. Or if the pear slices don’t reach all the way to the middle, arrange a few of the shorter slices in the center to cover the bottom of the pan."
+    },
+    {
+      "id": 20,
+      "image": "https://cdn.pixabay.com/photo/2014/10/13/16/11/cake-486874_960_720.jpg",
+      "cake_name": "Devil's Food Cake",
+      "category": "layer cake",
+      "type": "non-vegan",
+      "ingredients": [
+        "milk chocolate",
+        "double cream",
+        "flour",
+        "eggs",
+        "sugar",
+        "vanilla extract",
+        "salt",
+        "cocoa powder",
+        "milk"
+      ],
+      "instructions": "To make the icing put the chocolate in a large heatproof bowl. In a small saucepan, bring the cream to a boil. Pour the cream over the chocolate, move the bowl gently to let the cream settle. Set the mixture aside until softened, about 4 minutes. Whisk the mixture until smooth. Cover the surface of the icing with cling film. Set aside and let set up at room temperature, about 2 hours. To make the cake set a rack in the middle of the oven and preheat the oven to 180C/Gas Mark 4. Lightly butter two 23-cm round cake tins and line the bottoms with a circle of parchment or greaseproof paper. In a medium bowl, whisk together the flour, bicarbonate of soda, baking powder and salt. Set aside. In a standing mixer fitted with the paddle attachment, beat the butter at medium speed until smooth, about 2 minutes. Increase the speed to medium-high and slowly add the sugar. Continue beating until light and smooth, about 4 minutes. Turn the mixer off and scrape down the sides of the bowl with a rubber spatula."
+    },
+    {
+      "id": 21,
+      "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1965&q=80",
+      "cake_name": "Raspberry Layer Cake",
+      "category": "layer cake",
+      "type": "vegetarian",
+      "ingredients": [
+        "raspberries",
+        "raspberry jam",
+        "flour",
+        "eggs",
+        "brown sugar",
+        "cream cheese",
+        "cornstarch"
+      ],
+      "instructions": "It is good to prepare the raspberry puree for the batter first. Thaw raspberries (if using frozen). Puree in blender (we used our little bullet blender) and run through a small strainer. It helps to use the back of a spoon to push it through- Don't forget to scrape the other side of the strainer for additional juices. Add the strained puree to a saucepan along with 1/4 cup water a 2 Tablespoons sugar.  Cook over medium high heat until reduced to 3/4 cup (180g). This may take about 10-15 minutes. If you happen to reduce too much, just add water to reach the 3/4 cup mark. Allow the raspberry puree to cool before using.  Can be made in advance and refrigerated.   "
+    }
+  ]
+}
